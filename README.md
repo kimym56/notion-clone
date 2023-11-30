@@ -1,3 +1,25 @@
+### Notion Clone
+
+> [Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023](https://youtu.be/0OaDyjB9Ib8?si=dhBTlUv_y3z1NPOy)
+
+## Notes
+
+https://wooden-dirt-e79.notion.site/Clone-Coding-f0f3f5a252b8428389d916b5d597d470?pvs=4
+
+## Links
+
+[[KR]Several rendering patterns provided by Next.js](https://www.reason-to-code.com/blog/why-we-couldn't-feel-the-difference-of-nextjs/)
+
+[[KR]How does the browser work?](https://d2.naver.com/helloworld/59361)
+
+[[KR]SPA,SSG, and SSR](https://www.daleseo.com/spa-ssg-ssr/)
+
+[[EN]Key Differences between Next.js and React.js](https://www.linkedin.com/pulse/nextjs-vs-reactjs-choosing-right-framework-your-web-projects-shuvo/)
+
+---
+
+## Template
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
